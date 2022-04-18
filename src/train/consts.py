@@ -3,3 +3,9 @@ banking77_conf = {
     "dev" : "valid",
     "test" : "test"
 }
+
+art_conf = {
+    "train" : "train",
+    "dev" : "valid",
+    "test" : "test"
+}

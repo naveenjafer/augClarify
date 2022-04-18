@@ -3,7 +3,7 @@ from helpers import tokenize_and_format, flat_accuracy, get_text_label_list
 from data_load import load_intent_examples
 # Confirm that the GPU is detected
 import pandas as pd
-from consts import banking77_conf
+from consts import banking77_conf, art_conf
 import os
 from transformers import BertForSequenceClassification, AdamW, BertConfig
 import numpy as np
@@ -15,6 +15,9 @@ def loadData(folderName, folderIdentifier):
     if folderIdentifier == "banking77_conf":
         conf = banking77_conf
     
+    elif folderIdentifier == "art_conf":
+        conf = art_conf
+
     train_data = load_intent_examples(os.path.join(folderName, conf["train"]))
     dev_data = load_intent_examples(os.path.join(folderName, conf["dev"]))
     test_data = load_intent_examples(os.path.join(folderName, conf["test"]))
@@ -34,7 +37,7 @@ if not os.path.isdir(os.path.join("models",inputFolderModified)):
     os.mkdir(os.path.join("models",inputFolderModified))
 
 now = datetime.now()
-modelFolder = os.path.join("models", inputFolderModified, now.strftime("%m:%d:%Y_%H:%M:%S"))
+modelFolder = os.path.join("models", inputFolderModified, now.strftime("%m_%d_%Y_%H_%M_%S"))
 os.mkdir(modelFolder)
 
 # Get the GPU device name.
@@ -55,25 +58,38 @@ train_input_ids = torch.cat(train_input_ids, dim=0)
 train_attention_masks = torch.cat(train_attention_masks, dim=0)
 train_labels = torch.tensor(train_label)
 
-dev_text, dev_label, _ = get_text_label_list(dev_data)
+dev_text, dev_label, dev_map = get_text_label_list(dev_data, label_to_index_map)
 dev_input_ids, dev_attention_masks = tokenize_and_format(dev_text)
 dev_input_ids = torch.cat(dev_input_ids, dim=0)
 dev_attention_masks = torch.cat(dev_attention_masks, dim=0)
 dev_labels = torch.tensor(dev_label)
 
-test_text, test_label, _  = get_text_label_list(test_data)
+test_text, test_label, test_map  = get_text_label_list(test_data, label_to_index_map)
 test_input_ids, test_attention_masks = tokenize_and_format(test_text)
 test_input_ids = torch.cat(test_input_ids, dim=0)
 test_attention_masks = torch.cat(test_attention_masks, dim=0)
 test_labels = torch.tensor(test_label)
+'''
+print("Training data size: ", len(train_text))
+print(train_text[0:4])
 
+print("Number of labels: ", len(label_to_index_map.keys()))
+print(train_label)
+print(dev_label)
+print("Labels: ", label_to_index_map)
+print("******************")
+print("Dev label map", dev_map)
+print("*****************")
+print("Testlabel map", test_map)
+'''
 train_set = [(train_input_ids[i], train_attention_masks[i], train_labels[i]) for i in range(len(train_input_ids))]
+random.shuffle(train_set)
 dev_set = [(dev_input_ids[i], dev_attention_masks[i], dev_labels[i]) for i in range(len(dev_input_ids))]
 test_set = [(test_input_ids[i], test_attention_masks[i], test_labels[i]) for i in range(len(test_input_ids))]
 
 model = BertForSequenceClassification.from_pretrained(
 "bert-base-uncased", # Use the 12-layer BERT model, with an uncased vocab.
-num_labels = 2, # The number of output labels.   
+num_labels = len(label_to_index_map.keys()), # The number of output labels.   
 output_attentions = False, # Whether the model returns attentions weights.
 output_hidden_states = False, # Whether the model returns all hidden-states.
 )
@@ -81,12 +97,12 @@ output_hidden_states = False, # Whether the model returns all hidden-states.
 # Tell pytorch to run this model on the GPU.
 model.cuda()
 
-batch_size = 64
+batch_size = 4
 optimizer = AdamW(model.parameters(),
-                lr = 7e-5, # args.learning_rate - default is 5e-5
+                lr = 2e-5, # args.learning_rate - default is 5e-5
                 eps = 1e-8 # args.adam_epsilon  - default is 1e-8
                 )
-epochs = 10
+epochs = 50
 
 def get_validation_performance(val_set):
     # Put the model in evaluation mode
@@ -139,6 +155,9 @@ def get_validation_performance(val_set):
         # Calculate the number of correctly labeled examples in batch
         pred_flat = np.argmax(logits, axis=1).flatten()
         labels_flat = label_ids.flatten()
+        #print(labels_flat)
+        #print(pred_flat)
+        #quit(1)
         num_correct = np.sum(pred_flat == labels_flat)
         total_correct += num_correct
         
@@ -205,14 +224,17 @@ for epoch_i in range(0, epochs):
     # our validation set. Implement this function in the cell above.
     print(f"Total loss: {total_train_loss}")
     val_acc = get_validation_performance(dev_set)
+    train_acc = get_validation_performance(train_set)
+    print(f"Training accuracy: {train_acc}")
     print(f"Validation accuracy: {val_acc}")
     
 print("")
 print("Training complete!")
+
+print("Running on test set")
+get_validation_performance(test_set)
 model.save_pretrained(modelFolder)
 # save model
 
 
 #Next, you can use the model.save_pretrained("path/to/awesome-name-you-picked") method. This will save the model, with its weights and configuration, to the directory you specify. Next, you can load it back using model = .from_pretrained("path/to/awesome-name-you-picked").
-
-get_validation_performance(test_set)

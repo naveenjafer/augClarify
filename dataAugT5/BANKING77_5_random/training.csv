@@ -1,0 +1,386 @@
+target,source
+i'm supposed to have a refund but it isn't there,Refund_not_showing_up _ i'm | there | have | isn't | to | refund | a
+my refund is not here yet,Refund_not_showing_up _ yet | here | not | refund
+i've been waiting for a refund to show up and i don't see it on my statement yet.,Refund_not_showing_up _ i | to | yet. | up | refund | for | waiting | i've | my | and | show | see
+a refund for a recent return has not arrived on my card.,Refund_not_showing_up _ a | recent | arrived | my | not | on | return | has
+where is my refund? it appears to be missing.,Refund_not_showing_up _ refund? | to | missing. | it | appears | where
+what do i need to do for the card activation?,activate_my_card _ the | activation? | for | i | do | need | what
+i have a new card and need to activate it,activate_my_card _ and | i | it | to | need | a | card
+how do i turn on my new card?,activate_my_card _ turn | new | i | on | do
+it won't let me activate my card.,activate_my_card _ let | won't | me | card.
+my card is not able to be activated how do i get it to work?,activate_my_card _ to | be | card | able | it | get | is | not | work? | i
+what are age requirements for opening an account?,age_limit _ for | account? | requirements | what | opening
+how old can one use your service?,age_limit _ use | service? | old | how
+my son has just turned 13 is he old enough for an account?,age_limit _ an | son | 13 | just | my | account? | enough | turned | for
+my daughter needs an acount.,age_limit _ daughter | my | needs
+as my kids get older are they able to get set up with their own accounts?,age_limit _ they | accounts? | up | their | set | with | able | are | to | own | kids
+why isn't my google pay top up working?,apple_pay_or_google_pay _ working? | my | why | up | isn't
+how can i top up with google play?,apple_pay_or_google_pay _ how | up | google | top | i
+is there a way to top up using my apple watch?,apple_pay_or_google_pay _ apple | to | up | watch? | a | top | using
+google pay top up isn't working,apple_pay_or_google_pay _ up | pay | working | google
+can i pay for my gas using my apple watch?,apple_pay_or_google_pay _ my | watch? | apple | my | for | i | pay
+where can i withdraw money from?,atm_support _ withdraw | where | i | money
+which atms accept this bill of fare ?,atm_support _ ? | fare | this | accept | which
+tell me what atms take this card.,atm_support _ card. | atms | what | me
+tell me what atms use this card.,atm_support _ what | card. | tell | me
+can i use my card to withdraw from my account?,atm_support _ card | i | withdraw | my | can | use | from
+auto-top up option can be found where?,automatic_top_up _ found | can | auto-top | option
+can i automatically top-up when traveling?,automatic_top_up _ i | traveling? | when | automatically
+is there a auto top-up option?,automatic_top_up _ top-up | auto | option? | a
+is there a limit to auto top?,automatic_top_up _ limit | top? | to | auto
+how low does the balance have to be before the system updates?,automatic_top_up _ be | low | the | updates? | have | balance | the | system
+i completed a transfer that isn't showing up on my account.,balance_not_updated_after_bank_transfer _ showing | account. | i | that | on | a | up
+it is common for an international transfer to take 2 days or longer? i made a transfer from france 2 days ago and i have not seen it yet.,balance_not_updated_after_bank_transfer _ 2 | take | i | have | an | and | days | is | from | ago | i | or | a | it | it | france | international | not | longer? | transfer
+i made a bank transfer from my uk account today but it's not showing.  can you check status?,balance_not_updated_after_bank_transfer _ not | you | my | today | made | from | status? | can | i | uk | transfer | account | a
+what amount of time does it take for a transfer to reflect and be available,balance_not_updated_after_bank_transfer _ for | take | transfer | of | and | reflect | be | a | available | amount
+i've transferred money into my account but the balance is the same,balance_not_updated_after_bank_transfer _ money | account | transferred | the | into | the | i've | balance
+my balance doesn't show my deposit.,balance_not_updated_after_cheque_or_cash_deposit _ my | show | deposit. | my
+where is my missing cheque i deposited?,balance_not_updated_after_cheque_or_cash_deposit _ my | where | missing | is
+i have yet to receive the cash i added to my account this morning.,balance_not_updated_after_cheque_or_cash_deposit _ receive | yet | this | to | morning. | my | cash | account | have
+why hasn't my account updated?,balance_not_updated_after_cheque_or_cash_deposit _ updated? | account | my
+i need my account checked because it appears there is a problem. i attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  should this not be faster than this?,balance_not_updated_after_cheque_or_cash_deposit _ it | attempted | but | appears | yesterday | should | i | there |  | is | seem | my | this | using | not | update | this? | problem. | to | need | checked | cheque | than | balance | it
+my transfer to a beneficiary was rejected.,beneficiary_not_allowed _ rejected. | transfer | was | to
+my beneficiary didn't receive my transfer,beneficiary_not_allowed _ receive | didn't | transfer | my
+i'm trying to purchase crypto via the app. i haven't been able to get it to go through. am i doing something wrong?,beneficiary_not_allowed _ trying | the | to | i | i | been | via | go | app. | doing | am | able | wrong? | to | haven't | to
+why is my beneficiary not being allowed to get payment services?,beneficiary_not_allowed _ services? | is | beneficiary | to | not | my | get
+why was i denied the option to transfer money to a selected beneficiary?,beneficiary_not_allowed _ why | to | i | beneficiary? | denied | a | selected | option | was
+cancelling a transaction,cancel_transfer _ transaction | cancelling
+my morning transaction needs to be canceled.,cancel_transfer _ canceled. | be | morning | transaction
+i made a mistake this morning when i did a transfer. how do i reverse it?,cancel_transfer _ i | this | a | reverse | did | i | a | do | it? | morning | made
+a payment i made is for a wrong amount can you help me correct the mistake.,cancel_transfer _ wrong | a | mistake. | amount | me | you | payment | a | is | correct | i
+i want to revert this mornings transaction.,cancel_transfer _ want | to | mornings | transaction.
+i need a new card my old card is expiring.,card_about_to_expire _ new | card | my | i | old | a | expiring.
+how do i get a new expiration date?,card_about_to_expire _ do | new | how | get | date?
+is it possible to get a new card in china?,card_about_to_expire _ in | to | it | china? | card | new | is
+my card is about to expire.  where do i get a new one.,card_about_to_expire _ new | expire. | about | my |  | is | card | one. | do
+what do i do after my card expires?,card_about_to_expire _ i | card | do | expires? | my
+where do i pay with my debit or credit card?,card_acceptance _ or | debit | with | do | my | where | card?
+which establishments will accept my card?,card_acceptance _ accept | card? | establishments | will
+where can i use my card to pay?,card_acceptance _ i | pay? | my | can | where
+where can my card be used?,card_acceptance _ be | can | card | my
+where is this card accepted?,card_acceptance _ card | is | where
+what is the expected delivery date of my card?,card_arrival _ is | delivery | card? | the | what | date
+how can i track my card's delivery?,card_arrival _ delivery? | my | how | track
+is there a reason my new card hasn't arrived?,card_arrival _ hasn't | a | card | new | arrived? | my
+why have i not gotten my new card?,card_arrival _ have | new | why | i | gotten
+i know i'm getting a new card but would like know when i can expect to receive it.,card_arrival _ getting | it. | like | to | i | know | when | new | can | card | receive | a
+how long does it take for a card to arrive?,card_delivery_estimate _ take | long | how | it | a | for | card
+how long will it take to get to the us?,card_delivery_estimate _ to | long | how | take | it | to | us?
+when can i expect my new card to get here?,card_delivery_estimate _ card | i | to | here? | when | get | new
+what is the length of time for one of these items to come to the u.s?,card_delivery_estimate _ these | for | of | of | the | time | the | items | to | come | to
+can the delivery be specific to my needs?,card_delivery_estimate _ specific | can | my | be | to
+how do i get the card linked,card_linking _ get | linked | how | do
+how do i link the new card?,card_linking _ link | new | the | do
+how do i reactivate a card i thought i lost?,card_linking _ do | a | thought | lost? | card | i | reactivate
+i found my card that i thought i had lost i need to reactive it please help.,card_linking _ thought | i | lost | that | help. | found | i | to | need | i | i
+where do i go to get my new card linked?,card_linking _ my | go | i | card | get | linked? | to
+what is the main reason of this problem,card_not_working _ problem | of | reason | what | this
+i am unable to use my card.,card_not_working _ to | i | am | card.
+the card that i have isn't working. this is the physical card.,card_not_working _ this | isn't | is | the | i | card | card. | that
+i can't use my card because it is not working.,card_not_working _ it | not | card | use | because | my | can't
+i don't know what's wrong with my card but it has not worked at multiple places today.,card_not_working _ wrong | places | but | today. | know | worked | with | multiple | i | not | don't
+please explain the extra fee when i paid with the card.,card_payment_fee_charged _ with | please | paid | explain | card. | when | i
+i was charged an extra fee for a card payment. i was unaware of these fees beforehand.,card_payment_fee_charged _ beforehand. | fee | a | card | fees | payment. | these | was | charged | an | i
+why was the price higher when i paid with my card?,card_payment_fee_charged _ why | was | when | with | card? | higher | paid
+i have a fee and i don't know why,card_payment_fee_charged _ i | know | don't | fee | i | why
+i paid with card and was charged a fee that shouldn't be there!,card_payment_fee_charged _ shouldn't | card | with | and | be | paid | there! | fee | that
+i'm worried that my card has been compromised because i see a payment that i didn't make.,card_payment_not_recognised _ compromised | i | because | has | didn't | i | payment | worried | that | a | card
+someone else accessed my account and made a payment.,card_payment_not_recognised _ else | a | payment. | someone | made | account
+i just saw some charges on my card from the past days that i dont recognize i need to freeze the card asap! will i be able to get my money back?,card_payment_not_recognised _ need | days | card | to | recognize | the | get | just | some | dont | from | i | to | card | on | saw | will | the | money | i | able | be
+i have a card payment that i don't recognize. what should i do?,card_payment_not_recognised _ i | what | recognize. | should | a | have | that | card | i
+i think that there is a payment on my card that i did not authorize.  i don't recognize the name attached to the transaction.,card_payment_not_recognised _ the | to | don't | i | that | a | authorize. | is | on | not | the | that | transaction. | there | did | name | attached
+it looks like the exchange rates on my card payment are wrong,card_payment_wrong_exchange_rate _ are | exchange | it | rates | card | wrong | the | like
+something is wrong with my exchange rate charge,card_payment_wrong_exchange_rate _ exchange | my | with | something | charge
+i bought an item and the exchange rate was wrong.,card_payment_wrong_exchange_rate _ the | was | item | and | bought | an | rate
+your exchange rate was off.  i was charged extra on my payment that i made last saturday.,card_payment_wrong_exchange_rate _ off. | was | i | was | rate | saturday. | on | last | payment |  | your | made
+the exchange rate was incorrect for this item i bought.,card_payment_wrong_exchange_rate _ rate | this | item | for | was | the | incorrect
+my card is stuck in the atm?,card_swallowed _ in | atm? | the | card
+my card is stuck inside the atm what am i supposed to do?,card_swallowed _ inside | atm | the | stuck | what | i | do? | am | is
+an atm machine didn't give me back my card.,card_swallowed _ me | machine | atm | didn't | back | give
+i didn't get my card back from the atm.,card_swallowed _ back | from | the | get | card | i
+the atm sucked my card in.,card_swallowed _ atm | the | in. | my
+why did they take more money out then i withdrawed?,cash_withdrawal_charge _ take | withdrawed? | they | why | money | more | did
+why are you charging for cash withdrawals? i went to withdraw some money earlier today after getting my groceries and it appears there is a fee that wasn't there before,cash_withdrawal_charge _ you | it | charging | is | cash | to | wasn't | i | some | after | there | today | withdrawals? | appears | withdraw | earlier | that | went | for | why | getting
+is there an extra fee for using an atm?,cash_withdrawal_charge _ fee | an | atm? | using | an | for
+why am i being charged for withdrawing cash but haven't in the past?,cash_withdrawal_charge _ but | withdrawing | for | why | i | charged | cash | haven't | past?
+do cash withdrawals cost anything?,cash_withdrawal_charge _ cash | anything? | do
+the app says i made a cash withdrawal that i didn't make,cash_withdrawal_not_recognised _ the | didn't | withdrawal | make | app | a | that | i
+please help me its urgent. someone has withdrawn money from my account as few hours before my wallet has been. now i want to stop withdrawal of more money.,cash_withdrawal_not_recognised _ me | from | i | more | hours | has | help | money. | been. | has | to | withdrawn | money | please | now | of | my | few | as | its
+how do i report a cash withdrawal that wasn't me?,cash_withdrawal_not_recognised _ report | that | me? | how | do | withdrawal | a
+a wd was just made on my account but it was not me and i still have my card.  what to do?,cash_withdrawal_not_recognised _ still | to | not | wd | it | on | just | me | what | account | my | was | was |  | do? | my
+somebody made a withdrawal from my account for 500. i have my card so how can this be? does somebody have a duplicate card or something? help please.,cash_withdrawal_not_recognised _ my | 500. | can | have | a | so | or | please. | card | withdrawal | somebody | does | have | this | a | card | be? | how | from
+do you know how to change my card pin?,change_pin _ you | do | how | card | my | to
+can i change my pin?,change_pin _ can | change | i
+can you tell me what i need to do to have my pin changed?,change_pin _ my | you | what | can | changed? | need | do | i | tell
+can i change my pin on my phone?,change_pin _ pin | can | phone? | change | my
+do i need to speak to a representative to change my pin?,change_pin _ speak | need | pin? | my | representative | to | to | to
+i noticed my card was used in a small town that i have never been to. can you stop the card from being used more?,compromised_card _ i | being | been | never | noticed | used | used | small | the | stop | card | more? | that | town | have | a | was
+i believe that someone is using my card without my knowledge!,compromised_card _ i | is | my | knowledge! | card | that | without
+how do i report possible fraudulent activity on my account?,compromised_card _ activity | on | fraudulent | my | possible | do | account?
+my card must have used my card as there are some transactions that i haven't done myself..,compromised_card _ transactions | there | that | card | haven't | must | as | some | card | used | done
+someone has been using my card. there are unfamiliar transactions on there. can you freeze the card to keep this from happening?,compromised_card _ has | using | my | happening? | are | the | there. | on | someone | card | you | from | freeze | transactions | keep
+i've tried using my contactless in several locations today and it's not working anywhere. it seemed fine before. how do i get it to work again?,contactless_not_working _ do | seemed | my | tried | working | again? | before. | it | it's | locations | and | fine | how | work | to | using | in | not
+help me to set up contactless payments.,contactless_not_working _ up | to | help | me
+how can i fix my contactless?,contactless_not_working _ contactless? | how | my | can
+any charges applicable for new card?,contactless_not_working _ any | new | for | charges
+i was trying to use contactless earlier but it didn't work.,contactless_not_working _ didn't | trying | was | contactless | to | use | it
+you provide support in what countries?,country_support _ what | support | in | you
+you operate in which countries?,country_support _ which | in | countries?
+can i get a card that works in other countries like africa and indonesia?,country_support _ get | that | africa | indonesia? | countries | can | in | other | and
+is this card available to united states residents?,country_support _ residents? | this | card | to | available
+which countries do you support?,country_support _ you | countries | support?
+can you tell me why my card payment did not work?,declined_card_payment _ you | work? | tell | card | payment | my | not
+i had a card payment that was declined.  why?,declined_card_payment _  | why? | payment | had | was | a | i
+can you tell me why my card keeps getting declined every time i try to use it?,declined_card_payment _ every | can | me | my | i | it? | why | try | declined | card | use
+why is it saying my card payment is declined when i made it?,declined_card_payment _ i | when | it? | saying | why | is | made | card | is
+why do you keep declining my payment?i tried several times with this card and it is just not working.,declined_card_payment _ my | with | you | it | this | card | times | payment?i | do | is | tried | declining | several
+i could not get the atm to work,declined_cash_withdrawal _ work | to | the | could | i
+i think i am having an issue with withdraws on my card. it was declined on the way to work this morning. this hasn't happened in the past.,declined_cash_withdrawal _ was | i | morning. | withdraws | on | way | think | this | in | past. | the | happened | the | with | to | i | an | work | this
+i tried to withdraw cash from the atm machine and it did not work. can you tell me why?,declined_cash_withdrawal _ the | not | and | work. | machine | can | it | from | you | i | did | withdraw | tried
+the atm machines keep declining my card and i don't know why. i thought i had money in my account. why is this happening?,declined_cash_withdrawal _ keep | declining | and | don't | money | thought | in | i | my | my | this | had | the | machines | card | happening?
+is there something wrong with the atm? it would not let me pull cash out of my account.,declined_cash_withdrawal _ it | the | pull | cash | atm? | something | out | me | with | my | not | account.
+transfer unable to be completed states 'declined',declined_transfer _ be | 'declined' | to | completed
+why was one of my transfers declined?,declined_transfer _ declined? | was | transfers | one
+what would be a reason my transfer got declined?,declined_transfer _ what | declined? | would | be | transfer | reason
+i have a transfer that was declined.,declined_transfer _ that | was | transfer | declined.
+can you tell me why my transfer declined?,declined_transfer _ my | declined? | transfer | can | me
+i need to cancel a transaction on my debit card.,direct_debit_payment_not_recognised _ to | cancel | my | need | transaction | a | i
+i need a refund on a direct debit that shows in the app because i did not make it.,direct_debit_payment_not_recognised _ refund | debit | in | shows | not | it. | the | make | because | direct | a | app | i
+my statement shows a strange direct debit.,direct_debit_payment_not_recognised _ direct | debit. | strange | shows
+i just noticed that i supposedly made a payment to a seller a while back. the problem is i don't recognize the seller. there must be a way to see who it is or track the payment. can you do that because i don't remember this transaction?,direct_debit_payment_not_recognised _ or | made | a | a | to | a | the | because | payment | to | back. | you | there | recognize | supposedly | this | that | see | i | is | problem | that | just | while | i | is | can | transaction? | i | remember | the | don't
+there is a payment showing on my app that i didn't do. will you please cancel this payment and refund my money ?,direct_debit_payment_not_recognised _ is | cancel | didn't | and | payment | do. | payment | there | please | my | ? | showing | my | refund | app | on
+how many transactions can i make on my disposable card?,disposable_card_limits _ card? | make | my | i | can | on | disposable
+am i limited on the amount of disposable cards i can possess?,disposable_card_limits _ possess? | am | of | i | amount | limited | the | on
+what are the disposable virtual card limits?,disposable_card_limits _ disposable | the | virtual | what
+i need multiple cards per day and they all have to be disposable.,disposable_card_limits _ disposable. | day | to | have | multiple | all | they | and | per
+is there a limit to the number of disposable cards per day?,disposable_card_limits _ a | cards | per | the | to | disposable | day? | there
+how to edit personal details?,edit_personal_details _ personal | to | details?
+i've just moved and i need to change my details,edit_personal_details _ i've | change | moved | i | and | to | my
+please tell me where i can update my details since i moved.,edit_personal_details _ me | please | i | details | moved. | can | update | where
+my address is incorrect on my file.,edit_personal_details _ my | on | incorrect | address
+need my details changed,edit_personal_details _ need | changed
+what is the fee for a foreign currency exchange?,exchange_charge _ what | currency | exchange? | the | for | foreign
+will i have to pay extra to exchange money?,exchange_charge _ to | exchange | have | extra | pay | money?
+what is the rate for exchange fees?,exchange_charge _ the | exchange | rate | for
+when exchanging currencies is there an extra fee?,exchange_charge _ exchanging | fee? | is | there | currencies
+can you tell me what the exchange fee is?,exchange_charge _ can | what | fee | tell | me | is?
+how will i know what the exchange rate is?,exchange_rate _ what | i | exchange | the | how | is?
+how do you decide what your exchange rates are?,exchange_rate _ your | do | how | you | what | exchange
+how do you calculate exchange rates?,exchange_rate _ exchange | you | how | rates?
+i need to know about exchange rates,exchange_rate _ i | exchange | know | rates
+what is the exchange looking like?,exchange_rate _ exchange | the | is | looking
+i need australian dollars instead of uk currency.,exchange_via_app _ currency. | uk | instead | need | dollars
+can i add a new currency to my account?,exchange_via_app _ can | to | currency | account? | i | new
+how do i exchange currencies using the app?,exchange_via_app _ how | do | exchange | using | i
+i do not need gbp i need aud how do i convert it?,exchange_via_app _ i | i | aud | convert | i | need | it? | do | do
+can i exchange currencies with the app?,exchange_via_app _ with | i | the | currencies
+my statement shows an extra fee - what is it?,extra_charge_on_statement _ is | fee | what | statement | my | extra | shows
+it appears i have a fee in my statement.,extra_charge_on_statement _ appears | statement. | a | it | have | fee
+can you tell me about why the account i have was charged an extra 1$,extra_charge_on_statement _ the | tell | account | i | you | was | why | an | have | can
+why is there a 1 euro fee on my statement?,extra_charge_on_statement _ fee | a | on | 1 | is | my | euro
+i got billed an extra pound!,extra_charge_on_statement _ an | extra | got | billed
+my transfer didn't work! help!,failed_transfer _ work! | my | help!
+did  my transfer fail?,failed_transfer _ did | my | transfer
+can you please assist me in completing a transfer? i'm trying and i keep getting an error. i'm trying to purchase a flat and pay the initial mortgage payment. all i keep getting is an error. can you find out what's happening here?,failed_transfer _ all | completing | is | i'm | transfer? | an | keep | a | error. | an | i'm | flat | happening | what's | please | error. | mortgage | you | me | getting | a | purchase | assist | can | and | i | payment. | getting | i | in
+my transfer failed why?,failed_transfer _ my | transfer
+i tried to transfer money but it didn't go through,failed_transfer _ go | tried | to | didn't | transfer | but | i
+is it okay to hold money in multiple currencies?,fiat_currency_support _ multiple | it | okay | in | to | currencies?
+what are eligible holding and exchange currencies?,fiat_currency_support _ what | holding | exchange | are
+what currencies can my account be in?,fiat_currency_support _ my | what | account | be
+what currencies do you support?,fiat_currency_support _ support? | do | what
+what fiat currencies are supported?,fiat_currency_support _ currencies | supported? | fiat
+please can i get a disposable virtual card as well?,get_disposable_virtual_card _ a | i | can | well? | as | virtual | card
+how do i get a disposable virtual card as well?,get_disposable_virtual_card _ how | virtual | get | disposable | do | as | a
+where do i get a disposable card,get_disposable_virtual_card _ card | a | get | disposable
+can you tell me about these disposable virtual cards?,get_disposable_virtual_card _ tell | can | these | disposable | virtual | cards?
+what are the disposable cards used for?,get_disposable_virtual_card _ cards | for? | are | what
+how do i set up my card pin?,get_physical_card _ do | how | set | my | card
+where is my pin?,get_physical_card _ is | where
+i cannot find my pin.,get_physical_card _ i | my | pin.
+i am yet to receive my pin.,get_physical_card _ i | receive | am | to
+where is the pin number found?,get_physical_card _ number | the | is | where
+are extra cards free?,getting_spare_card _ free? | are
+can i order a second card?,getting_spare_card _ order | card? | i | can
+my daughter would like a card from my account?  can i do this?,getting_spare_card _ from | do | this? | my | my | a | i | like | 
+can i get spare cards?,getting_spare_card _ get | can | spare
+can i have a duplicate second card?,getting_spare_card _ i | card? | can | second
+why have i not yet received my virtual card?,getting_virtual_card _ virtual | have | i | yet | why | not
+where do i order a virtual card?,getting_virtual_card _ do | i | a | card?
+why have i not received a virtual card yet?,getting_virtual_card _ received | virtual | yet? | card | why | a
+what do i have to do to get my virtual card?,getting_virtual_card _ my | have | i | to | get | virtual | what
+how can i go about ordering a virtual card?,getting_virtual_card _ virtual | card? | i | about | go | how
+can you help me retrieve my card?,lost_or_stolen_card _ retrieve | you | my | can
+what should i do?  my card has been stolen!,lost_or_stolen_card _ card | i | do? | my | been | what | 
+i lost my wallet and all my cards were in it.,lost_or_stolen_card _ and | lost | my | my | all | wallet | in
+my card was stolen,lost_or_stolen_card _ was | my
+who can i speak with regarding a lost card?,lost_or_stolen_card _ with | i | who | can | regarding | lost
+i can't use the app because i got mugged yesterday and they took everything. please help.,lost_or_stolen_phone _ they | use | yesterday | help. | because | please | i | can't | app | and | mugged
+i lost my phone.  what do i do to block someone else from using my account?,lost_or_stolen_phone _ i | else | block | my | phone. | my | what | i | someone | to | do
+i cannot find my phone what should i do?,lost_or_stolen_phone _ i | cannot | phone | what | do? | should
+my phone was taken yesterday what should i do about my account?,lost_or_stolen_phone _ i | should | what | yesterday | was | taken | my | do
+i left my phone somewhere and can't use the app.,lost_or_stolen_phone _ i | somewhere | and | phone | use | can't | left
+is there a fee to get an actual card?,order_physical_card _ fee | is | there | a | actual | get
+do i have to pay for a physical card?,order_physical_card _ do | for | pay | to | i | physical
+is payment required to get a card of my own?,order_physical_card _ required | card | my | own? | a | is | get
+i need to get a card how do i do that?,order_physical_card _ i | get | to | do | do | need | how
+what is the cost for physical cards?,order_physical_card _ the | cards? | is | cost
+what is my password?,passcode_forgotten _ my | password?
+i need a new login code,passcode_forgotten _ need | a | new | login
+i forgot my password to get into the app!,passcode_forgotten _ into | to | get | app! | i | forgot
+i can't remember my app code can you reset it?,passcode_forgotten _ can | app | reset | you | my | i | it?
+can someone help with my passcode?,passcode_forgotten _ someone | passcode? | can | my
+my card payment says pending and it hasn't changed,pending_card_payment _ hasn't | and | payment | it | says | card
+i have a payment that is still pending,pending_card_payment _ i | still | have | a | that
+i made a payment but it's still pending,pending_card_payment _ it's | still | a | payment | pending
+why is my card payment pending?,pending_card_payment _ is | pending? | payment | card
+i need to find out why my pending payment hasn't gone through.,pending_card_payment _ payment | pending | to | need | through. | i | hasn't | find
+why would a cash withdrawal still be pending?,pending_cash_withdrawal _ be | pending? | still | would | a
+hello i have a pending transaction in my account due to an atm machine that wasn't working. in any case if the transaction goes through after how long can i get my money back?,pending_cash_withdrawal _ case | the | that | hello | after | through | due | an | long | how | in | get | goes | a | transaction | i | in | atm | machine | any | can | i | working.
+hello i'm having trouble with my card i don't understand what's happening i tried using the atm machine earlier but it wasn't working but seems like the transactions is still in progress can you cancel it for me?,pending_cash_withdrawal _ like | hello | you | still | but | i | progress | understand | in | me? | using | with | what's | working | it | don't | tried | cancel | atm | the | seems | can | i | card | for | trouble
+hae there i have a transaction that is in progress despite the fact that the atm was not working what do i do to avoid being charged?,pending_cash_withdrawal _ in | the | a | what | atm | transaction | have | to | that | i | fact | there | do | not | hae | is | i | the
+i'm expecting to see a cash withdrawal but i'm still waiting.,pending_cash_withdrawal _ cash | but | a | still | i'm | i'm | see
+my top is still pending.,pending_top_up _ top | still | pending.
+what is the reason my top-up is still pending?,pending_top_up _ is | still | what | my | the | is
+why is top up pending,pending_top_up _ is | pending | up
+i'm a new customer and tried topping up today for the first time. it's still pending and doesn't seem to be working. i need to get this fixed.,pending_top_up _ for | this | customer | be | and | to | fixed. | tried | time. | it's | seem | get | today | new | i'm | and | first | still | doesn't
+why has my top up not gone through yet?,pending_top_up _ yet? | why | up | not | through | gone
+can you tell me why my transfer is pending still?,pending_transfer _ transfer | pending | still? | my | is | why | you
+"why is my transfer appearing as ""pending""?","pending_transfer _ as | why | is | ""pending""?"
+could you please help me figure out why the seller has not received their money after i sent it.,pending_transfer _ please | not | me | help | it. | i | their | received | could | money | sent | you | why
+"hello. how long does it usually take to transfer money to another country? i've made sure all the information is correct but the transfer still says that it's ""pending.""",pending_transfer _ it | says | does | transfer | how | is | it's | made | money | i've | sure | hello. | to | correct | the | take | long | country? | still | usually
+the transfer was accepted but now it's stuck on pending. when will it go through?,pending_transfer _ it's | transfer | pending. | on | the | accepted | through? | when | will | stuck
+can you unblock my blocked pin?,pin_blocked _ can | blocked | my | pin?
+i forgot my pin and am blocked now. can i reset it somewhere?,pin_blocked _ reset | am | forgot | can | now. | my | i | it | blocked
+what do i do if my pin was blocked?,pin_blocked _ i | was | if | do | what | my
+my pin needs unblocking unblock it please?,pin_blocked _ needs | please? | my | unblocking
+when i was drunk i got my card stuck in your machine because i mis-typed my pin. what do i need to do to get it restored?,pin_blocked _ i | what | i | stuck | my | need | card | machine | i | it | my | drunk | got | to | to | pin. | when | get
+how do i transfer funds if i am paid in gbp?,receiving_money _ paid | do | if | transfer | am | how | i
+i would like to know how my friend would be able to send me money,receiving_money _ be | how | would | me | able | to | my | like | i | to
+i want to get my salary deposited as pesos?,receiving_money _ salary | get | i | to | as | pesos?
+how can my boss pay me directly to the card?,receiving_money _ the | card? | my | me | directly | pay | how
+can my husband open an account and transfer money,receiving_money _ an | open | my | transfer | and | can
+tell me how to get a refund for something i bought.,request_refund _ bought. | for | to | a | tell | how | me
+i need to cancel a purchase?,request_refund _ need | purchase? | cancel | a
+it has been forever ago that i made an order online. the product simply is not coming. just give me back my money because i'm not paying these people.,request_refund _ my | me | made | back | i | has | coming. | i'm | not | that | ago | it | order | give | simply | people. | an | online. | these | been
+how do i get a refund for an item i bought?,request_refund _ an | for | bought? | a | get | do | i
+i need my purchase cancelled.,request_refund _ cancelled. | need | i
+what happens if my card payment is cancelled?,reverted_card_payment? _ if | card | what | payment | cancelled?
+what is the reason for my card payment to be reverted?,reverted_card_payment? _ reason | what | to | card | be | for | the
+i just got refunded for my purchase over two weeks ago,reverted_card_payment? _ over | i | for | purchase | just | refunded | my
+i think my card payment has been refunded,reverted_card_payment? _ payment | my | refunded | card | has
+ive been trying to use my card for two weeks now to purchase somethings online but nothing is going through. it keeps returning my payment to my account. there shouldn't be anything wrong with my account is it the card?,reverted_card_payment? _ purchase | trying | been | card? | card | is | online | use | account | keeps | it | returning | be | going | nothing | my | account. | but | anything | the | weeks | to | now | my | two | with | somethings | wrong
+how can i add money from my amex card,supported_cards_and_currencies _ my | can | i | amex | card | how
+which cards and currencies are supported?,supported_cards_and_currencies _ currencies | cards | and | are
+what forms of payment do you accept?,supported_cards_and_currencies _ payment | forms | do | accept?
+will my other us credit card be accepted?,supported_cards_and_currencies _ other | my | us | card | be
+what cards do you accept to top up my account?,supported_cards_and_currencies _ you | cards | up | top | what | accept | my
+i'm not happy i want to close my account.,terminate_account _ to | happy | not | i'm | my | account.
+the service here is horrible i want to delete my account.,terminate_account _ want | delete | service | here | my | horrible | is
+i need to close my account.  your company is terrible!,terminate_account _ to | company | need | account. | i | my | is
+i am very dissatisfied with the services that you are providing.  i want to cancel my account.,terminate_account _ you | providing. | very | the | account. | to | that | are | dissatisfied | am | want | i
+i no longer want this account what should i do?,terminate_account _ do? | i | longer | want | no | account | what
+i want to do a swift transfer,top_up_by_bank_transfer_charge _ to | i | a | swift
+is a swift transfer acceptable?,top_up_by_bank_transfer_charge _ a | swift | is
+do i get charged if i am receiving money?,top_up_by_bank_transfer_charge _ am | get | receiving | money? | charged | do
+what kind of fee is there to top-up my account?,top_up_by_bank_transfer_charge _ to | my | is | top-up | account? | fee | of
+is there a top up fee for transfer?,top_up_by_bank_transfer_charge _ up | top | is | there | a
+are there any fees if i want to add money using an international card?,top_up_by_card_charge _ if | want | there | add | fees | i | money | to | any
+how much does top up fees cost?,top_up_by_card_charge _ cost? | how | up | top
+where can i top my card for free?,top_up_by_card_charge _ i | top | my | card | where
+will i be charged a fee for topping up using a european card?,top_up_by_card_charge _ topping | be | charged | card? | using | for | will | i | fee
+do i have to pay extra if i use an international card to top up my account?,top_up_by_card_charge _ use | to | account? | do | card | have | top | i | extra | i | an
+i want to top up by cheque,top_up_by_cash_or_cheque _ i | cheque | top | to
+where can i find top up by cash deposit?,top_up_by_cash_or_cheque _ by | i | can | find | where | deposit?
+is there somewhere i can send a check to add to my account?,top_up_by_cash_or_cheque _ somewhere | check | can | to | my | add | to | account? | is
+can i top up my balance with a cheque?,top_up_by_cash_or_cheque _ i | with | balance | up | can | my
+can i cash deposit to top up my account,top_up_by_cash_or_cheque _ deposit | to | i | account | my | cash
+why is my top up failing,top_up_failed _ up | failing | is | top
+the top-up did not go through.,top_up_failed _ did | top-up | the | go
+i was trying to top-up and my credit card was declined. can you tell me why?,top_up_failed _ you | credit | can | trying | my | and | me | was | to | i | why?
+hello there was an error while attempting top-up with my card this morning. i was able to use the card two days ago with no issues. could you please assist?,top_up_failed _ able | morning. | with | you | attempting | while | could | there | my | issues. | days | to | assist? | use | with | this | was | hello | i | the | top-up
+i really need to top-up my card today urgently but my card keeps getting declined!! can you please resolve this problem or try an alternative,top_up_failed _ alternative | today | declined!! | you | card | problem | urgently | but | or | my | my | getting | can | need | please | keeps | i
+is there a limit on how much i can top up?,top_up_limits _ is | how | much | there | on | a | top
+is the top-up amount unlimited?,top_up_limits _ unlimited? | is | the
+is there a maximum for top-ups?,top_up_limits _ top-ups? | is | a | maximum
+what's the top-up limit?,top_up_limits _ what's | top-up
+can i set my own top-up limit?,top_up_limits _ i | own | my | limit?
+what should i do?  i topped off but the app reversed  it.,top_up_reverted _ do? | off | but | reversed | i |  | the | should | what
+what happened to the money that i deposited?,top_up_reverted _ money | what | the | happened | that
+my money is gone. i had topped up recently and saw it was there and went through but now it's disappeared what's going on?,top_up_reverted _ gone. | it's | there | what's | and | is | disappeared | was | on? | my | going | and | recently | topped | it | went
+i thought crypto top up with something you offer. this is not working. the money has been deducted from my account. can you find out what's going on?,top_up_reverted _ this | going | up | with | has | account. | crypto | find | top | i | from | you | thought | deducted | the | my | working. | is | on?
+i put some money in my account the other day but now its gone? why is this?,top_up_reverted _ my | day | account | money | in | i | why | other | its | gone? | the
+my top up is not showing up in my wallet!,topping_up_by_card _ in | is | top | up | up | not | my
+i can not see my top up,topping_up_by_card _ see | i | can | my
+is it possible to top up by card?,topping_up_by_card _ top | is | to | up | by
+am i the only one who can top-up my account?,topping_up_by_card _ my | the | am | who | only | top-up | i
+is it possible to transfer money to my credit card?,topping_up_by_card _ possible | my | credit | money | to | it | to
+there were two of the same charge to my account,transaction_charged_twice _ the | two | my | to | account | charge | same
+i have two of the same charges on my account!,transaction_charged_twice _ my | have | of | same | the | account! | charges
+transaction showing up many times.,transaction_charged_twice _ transaction | up | times.
+i was charged twice for an in-store purchase that i thought was declined.  my app says that it's still pending for one of the payments. please make sure one of the charges is removed.,transaction_charged_twice _ it's | of | pending | i | one | that | charges |  | my | charged | please | for | was | declined. | sure | make | payments. | still | an | purchase | the | one | the | twice
+hi i was at a restaurant later the week and when i went to look at my account i noticed that i got charged twice. i would like to get my money back from one of those transactions.,transaction_charged_twice _ look | and | the | at | get | that | week | transactions. | was | money | of | back | would | my | i | twice. | a | to | like | my | those | from | noticed | one | hi | i
+why am i seeing a transfer fee on my bank statement?,transfer_fee_charged _ bank | a | transfer | why | am | statement? | my
+i use my card internationally to manage payments and i just noticed that you are adding additional fees.  why?  i am a good customer and this has me thinking about leaving.,transfer_fee_charged _ about | you | me | adding | and | i | that | additional | this | am | why? | my | customer | fees. | thinking | payments | i |  | i | manage |  | a | card
+i see a transfer fee but to my understand that should have been free what happened?,transfer_fee_charged _ happened? | understand | a | to | free | but | been | fee | transfer | have | see
+why is there a fee for my transfer?,transfer_fee_charged _ for | a | fee | why | transfer?
+i need to know how much it costs to transfer funds.,transfer_fee_charged _ costs | it | much | i | need | know | to
+how do i transfer money into my account?,transfer_into_account _ my | money | transfer | do | account?
+how do i transfer cash my into my account?,transfer_into_account _ cash | do | how | transfer | my | i
+where can i find out how to transfer money into my account.,transfer_into_account _ money | where | find | account. | how | into | to | transfer
+how can i add money to my account from another account i have?,transfer_into_account _ have? | from | another | my | how | i | add | i | account
+i want to transfer a sum of money from another bank account i have into this one,transfer_into_account _ this | money | into | bank | i | transfer | one | i | of | have | sum
+why can't the person i sent the money transfer to see it?,transfer_not_received_by_recipient _ person | see | i | the | sent | transfer | can't | why
+why is my friend not getting a transaction arrival yet?,transfer_not_received_by_recipient _ a | transaction | friend | is | getting | my | arrival
+when will i get my money? it's been too long.,transfer_not_received_by_recipient _ too | get | when | i | long. | been | my
+what do i do if i completed a money transfer but the recipient hasn't received it?,transfer_not_received_by_recipient _ hasn't | completed | i | i | transfer | money | it? | if | the | what | recipient
+i sent money to someone but they haven't gotten it what's going on?,transfer_not_received_by_recipient _ but | haven't | sent | i | what's | gotten | to | they | someone
+how long is the transfer?,transfer_timing _ long | how | is
+what is the estimated time on an urgent transfer from china?,transfer_timing _ transfer | an | what | china? | urgent | from | estimated
+when will the money from a transfer be made available on my account?,transfer_timing _ my | a | transfer | on | money | the | account? | from | will
+how long does it take transfers from europe to complete?,transfer_timing _ to | europe | how | transfers | long | it | complete?
+how long will i have to wait for my money to be in my account?,transfer_timing _ account? | be | i | to | to | my | will | my | long | in
+if you are waiting for verification it can take 10 minutes to 60 minutes to get results.you will hear from us once we have it.  please make sure your images are clear and photos of documents are readable. you have to be at least 18 years old and live withing the economic area of europe or in switzerland in order to open an account.,unable_to_verify_identity _ are | of | if | clear | will | make | are | you |  | results.you | of | take | an | verification | you | we | account. | 60 | have | the | to | it. | sure | are | and | in | area | or | from | to | get | documents | in | economic | open | be | old | to | 10 | us | once | switzerland | and | at | order
+i have trouble proving my identity.,unable_to_verify_identity _ trouble | i | have | proving
+my identity isn't being accepted what should i do?,unable_to_verify_identity _ what | identity | i | being | do? | accepted
+what do i need to bring for identification?,unable_to_verify_identity _ to | for | bring | what | need
+i am having trouble verifying my id.,unable_to_verify_identity _ my | i | id. | verifying
+what do i need for the verification check?,verify_my_identity _ need | the | verification | i | for
+how can i prove who i am?,verify_my_identity _ who | i | prove | am?
+how can i prove i am me?,verify_my_identity _ how | am | prove | i
+how do i change my identity?,verify_my_identity _ do | i | my | change
+what is needed for the identity verification?,verify_my_identity _ is | the | needed | for
+where did my money come from?,verify_source_of_funds _ did | where | my | money
+can i see the source of my available money?,verify_source_of_funds _ money? | see | can | available | the | of
+how can i look at where my available cash is coming from?,verify_source_of_funds _ i | is | where | cash | can | available | look | coming
+is there a way for me to check my balance?,verify_source_of_funds _ a | way | balance? | to | for | me | there
+how can i receive verification for the source of my funds?,verify_source_of_funds _ i | funds? | the | source | receive | of | can
+i need to find the top up verification code,verify_top_up _ the | need | to | top | code | verification
+tell me how to verify a top up.,verify_top_up _ to | top | tell | a | up.
+this verifying the top up is annoying,verify_top_up _ the | verifying | annoying | is
+where is the top-up verification code located?,verify_top_up _ the | where | verification | located?
+where do i verify a top-up card?,verify_top_up _ card? | top-up | verify | i
+i tried paying with my disposable virtual card earlier but it was rejected. what can i do to fix this?,virtual_card_not_working _ what | do | paying | earlier | it | can | was | this? | tried | virtual | my | fix | i | card
+i can't make purchases with my virtual card.,virtual_card_not_working _ can't | make | virtual | card. | purchases
+my virtual car is not working.,virtual_card_not_working _ my | car | is | not
+i have a disposable card but it does not work?,virtual_card_not_working _ have | not | i | it | disposable | card | but
+can i use my virtual card for recurring monthly payments?,virtual_card_not_working _ use | payments? | for | card | my | virtual | monthly
+visa or mastercard?,visa_or_mastercard _ visa | or
+is it ok if i use both visa and mastercard,visa_or_mastercard _ it | both | i | use | is | visa | mastercard
+do i have an option between visa and mastercard?,visa_or_mastercard _ do | option | visa | an | have | between
+is it possible to get both mastercard and visa card from you?,visa_or_mastercard _ visa | get | you? | possible | it | both | mastercard | is
+please give me a mastercard instead.,visa_or_mastercard _ please | instead. | a | me
+why and how soon do i have to have proof of identity to you?,why_verify_identity _ have | of | and | to | i | soon | to | why | do
+what are the reasons i have to proof my identity to you?,why_verify_identity _ to | identity | to | what | the | you? | reasons | proof
+i'm waiting for the id verification to go through still so is it too soon to use my account?,why_verify_identity _ still | too | go | for | waiting | to | the | it | through | my | soon | id | use
+why do you have an identity check?,why_verify_identity _ you | check? | identity | do
+why check my identity?,why_verify_identity _ my | why
+i only got $20 of the $100 that i attempted to withdraw.,wrong_amount_of_cash_received _ that | attempted | the | of | only | got | $100 | i
+hey i am standing in front of an atm here it only gave me 10 pounds even though i wanted to withdraw 30! seems like the app has 30 pounds what do i do??,wrong_amount_of_cash_received _ seems | atm | here | do | 30 | 10 | wanted | what | i | the | 30! | though | i | hey | like | has | withdraw | pounds | an | standing | it | i | front
+i think something went wrong i didn't get the right amount.,wrong_amount_of_cash_received _ think | the | didn't | i | right | something | wrong
+the atm didn't give me the amount i asked for,wrong_amount_of_cash_received _ the | give | i | amount | didn't | the | atm
+i am at the atm and tried to withdraw 30 pounds and it only gave me 10 pounds what do i do?,wrong_amount_of_cash_received _ and | i | 30 | i | gave | at | me | what | do? | do | only | atm | withdraw | it | am
+i tried using a foreign currency at an atm but the atm provided me an incorrect rate. why is that?,wrong_exchange_rate_for_cash_withdrawal _ an | provided | a | is | rate. | using | the | atm | me | an | currency | but | atm | that?
+when i got cash i believe that the exchange rate was wrong,wrong_exchange_rate_for_cash_withdrawal _ wrong | believe | the | that | i | when | was | exchange
+what is the correct exchange rate for getting cash,wrong_exchange_rate_for_cash_withdrawal _ cash | what | for | correct | exchange | getting
+i didn't receive the correct exchange rate when i got cash.,wrong_exchange_rate_for_cash_withdrawal _ rate | cash. | i | receive | correct | exchange | i
+can i make a withdraw in my home currency at an atm? i'm on vacation and am a bit worried because i don't have cash with me. is it possible to withdraw here without any additional costs or fees?,wrong_exchange_rate_for_cash_withdrawal _ currency | a | atm? | home | with | make | can | or | i | it | vacation | an | worried | am | have | additional | i'm | don't | my | and | to | i | me. | here | at | because | possible

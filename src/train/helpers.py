@@ -27,7 +27,7 @@ def tokenize_and_format(sentences):
       encoded_dict = tokenizer.encode_plus(
                           sentence,                      # Sentence to encode.
                           add_special_tokens = True, # Add '[CLS]' and '[SEP]'
-                          max_length = 512,           # Pad & truncate all sentences.
+                          max_length = 64,           # Pad & truncate all sentences.
                           padding = 'max_length',
                           truncation = True,
                           return_attention_mask = True,   # Construct attn. masks.
@@ -62,3 +62,13 @@ def get_text_label_list(dataList, labelToIndexMap=None):
     
     return textList, labelList, labelToIndexMap
 
+def get_text_label_actual_list(dataList):
+    textList = []
+    labelList = []
+
+    counter = 0
+    for dataObj in dataList:
+        textList.append(dataObj.text)
+        labelList.append(dataObj.label)
+    
+    return textList, labelList
